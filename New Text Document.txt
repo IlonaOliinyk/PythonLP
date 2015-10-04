@@ -1,0 +1,72 @@
+	-                           SENT_START 
+Під	            під             prep:rv_zna:rv_oru 
+час	            час             noun:m:v_naz 
+                                noun:m:v_zna 
+замовлення	    замовлення      noun:n:v_naz 
+                                noun:n:v_rod 
+                                noun:n:v_zna 
+                                noun:p:v_naz 
+                                noun:p:v_zna 
+підійшов	    підійти         verb:past:m:perf 
+адміністратор	адміністратор   noun:m:v_naz:anim 
+Ельвіна	        -               - 
+до	            до              prep:rv_rod 
+барної	        барний          adj:f:v_rod 
+стійки	        стійка          noun:f:v_rod 
+                                noun:p:v_naz 
+                                noun:p:v_zna 
+і	            і               conj:coord 
+                                part 
+влаштував	    влаштувати      verb:past:m:perf:v-u 
+влаштував	    влаштувати      verb:past:m:perf:v-u 
+скандал	        скандал         noun:m:v_naz 
+                                noun:m:v_zna 
+з	            з               prep:rv_rod:rv_zna:rv_oru 
+своїм	        свій            adj:m:v_mis:&pron:pos 
+                                adj:m:v_oru:&pron:pos 
+                                adj:n:v_mis:&pron:pos 
+                                adj:n:v_oru:&pron:pos 
+                                adj:p:v_dav:&pron:pos 
+працівником	    працівник       noun:m:v_oru:anim 
+який	        який            adj:m:v_naz:&pron:int:rel:def 
+                                adj:m:v_zna:&pron:int:rel:def 
+звільнився	    звільнитися     verb:rev:past:m:perf 
+і	            і               conj:coord 
+                                part 
+прийшов	        прийти          verb:past:m:perf 
+на	            на              excl 
+                                part 
+                                prep:rv_zna:rv_mis 
+обід	        обід            noun:m:v_naz 
+                                noun:m:v_zna 
+всі	            весь            adj:p:v_naz:&pron:dem
+                                adj:p:v_zna:&pron:dem            
+відвідувачі	    відвідувач      noun:m:v_mis:anim 
+                                noun:p:v_kly:anim 
+                                noun:p:v_naz:anim 
+вислуховували	вислуховувати   verb:past:p:imperf 
+її	            її              adj:f:v_dav:nv:&pron:pos 
+                                adj:f:v_mis:nv:&pron:pos 
+                                adj:f:v_naz:nv:&pron:pos 
+                                adj:f:v_oru:nv:&pron:pos 
+                                adj:f:v_rod:nv:&pron:pos 
+                                adj:f:v_zna:nv:&pron:pos 
+
+                вона            noun:f:v_rod:&pron:pers:3 
+                                noun:f:v_zna:&pron:pers:3 
+недовольство	-               - 
+що	            що              conj:subord 
+                                noun:n:v_naz:inanim:&pron:int:rel
+                                noun:n:v_zna:inanim:&pron:int:rel
+він	            він             noun:m:v_naz:&pron:pers:3 
+прийшов	        прийти          verb:past:m:perf 
+саме	        саме            adv 
+                                part 
+                сам             adj:n:v_naz:&pron:def 
+                самий           adj:n:v_naz 
+                                adj:n:v_zna 
+в	            в               prep:rv_zna:rv_mis:rv_rod:v-u 
+цей	            цей             adj:m:v_naz:&pron:dem 
+                                adj:m:v_zna:&pron:dem 
+заклалд	        -               - 
+.	            -               SENT_END 
