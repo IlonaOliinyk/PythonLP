@@ -1,0 +1,73 @@
+﻿                                                   -                            SENT_START 
+В	                              в                prep:rv_zna:rv_mis:rv_rod:v-u 
+кав'ярні              	 кав'ярня                  noun:f:v_dav 
+                                                                                noun:f:v_mis 
+                                                                                noun:f:v_rod 
+                                                                               noun:p:v_naz 
+                                                                               noun:p:v_zna 
+кондиціонер	кондиціонер        noun:m:v_naz 
+                                                                              noun:m:v_zna 
+.	                                  -                       SENT_END 
+                                                       -                      SENT_START 
+Смачно	                           смачно               adv:compb 
+.	                                  -                      SENT_END 
+                                                       -                      SENT_START 
+І	                                  і                       conj:coord 
+                                                                                    part 
+роками	                           роками                   adv 
+                                                     рік                   noun:p:v_oru 
+тільки	                           тільки                      adv 
+                                                                               conj:subord  
+                                                                                     part                                                           
+yкраїнська	український            adj:f:v_naz 
+музика	                           музика                noun:f:v_naz 
+                                                                               noun:f:v_naz:anim 
+.	                                  -                         SENT_END 
+                                                       -                        SENT_START 
+Таке	                            такий                adj:n:v_naz:&pron:def 
+                                                                              adj:n:v_zna:&pron:def 
+навіть	                           навіть                         part 
+ у                                                    y                   prep:rv_zna:rv_mis:rv_rod:v-u 
+львові	                                    -                                - 
+на                                                на                  prep:rv_zna:rv_mis 
+моїй	                               мій                 adj:f:v_dav:&pron:pos 
+                                                                            adj:f:v_mis:&pron:pos 
+памяті	                                -                                    - 
+рідко	                            рідко                    adv:compb 
+зустрінеш	   зустрінути           verb:futr:s:2:perf 
+.                                                     -                          SENT_END 
+                                                      -                         SENT_START 
+Супер                                   супер                   noun:m:v_naz 
+                                                                               noun:m:v_zna 
+.                                                    -                            SENT_END 
+                                                     -                           SENT_START 
+                                                     -                            SENT_END 
+                                                                                   PARA_END 
+Дуже	                           дуже                          adv 
+                                                дужий                 adj:n:v_naz:compb 
+                                                                               adj:n:v_zna:compb 
+                                                 дужий 
+
+adv 
+adj:n:v_naz:compb 
+adj:n:v_zna:compb 
+смачно	смачно 
+adv:compb 
+,	- 
+- 
+особливо	особливо 
+adv 
+борщ	борщ 
+
+noun:m:v_naz 
+noun:m:v_zna 
+і	і 
+
+conj:coord 
+part 
+вареники	вареник 
+
+noun:p:v_naz 
+noun:p:v_zna 
+!	- 
+SENT_END 
